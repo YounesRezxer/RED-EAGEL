@@ -16,7 +16,7 @@ Tool Information Gathering Write With Python.
 
 ## Install
 ```bash
-$- git clone https://github.com/YounesRezxer/RED.EAGLE.git
+$- git clone https://github.com/YounesRezxer/RED-EAGEL
 $- cd RED.EAGLE
 $- pip3 install -r requirements.txt
 $- python3 red eagle.py 
