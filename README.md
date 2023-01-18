@@ -1,7 +1,5 @@
 # RED EAGLE V2.2
 
-Tool Information Gathering Write With Python.
-
 
 ## PreView
 <pre>
