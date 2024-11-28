@@ -58,9 +58,9 @@ def SMS_Bomb():
 
 def Developer():
     time.sleep(0.1)
-    print(Fore.RED + "   [" + Fore.LIGHTWHITE_EX + "-" + Fore.RED + "]" + Fore.LIGHTCYAN_EX + " ID Developer : @MASTER_YOUNES  \n")
+    print(Fore.RED + "   [" + Fore.LIGHTWHITE_EX + "-" + Fore.RED + "]" + Fore.LIGHTCYAN_EX + " ID Developer : @younes.lohrabi  \n")
     time.sleep(0.1)
-    print(Fore.RED + "   [" + Fore.LIGHTWHITE_EX + "-" + Fore.RED + "]" + Fore.LIGHTCYAN_EX + " Channel YT : Blackamooz \n")
+    print(Fore.RED + "   [" + Fore.LIGHTWHITE_EX + "-" + Fore.RED + "]" + Fore.LIGHTCYAN_EX + " Channel YT : codenest  \n")
     time.sleep(0.1)
     print(Fore.RED + "   [" + Fore.LIGHTWHITE_EX + "-" + Fore.RED + "]" + Fore.LIGHTCYAN_EX + " Github : YounesRezxer \n")
     time.sleep(0.1)
