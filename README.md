@@ -21,7 +21,7 @@ $- python3 red eagle.py
 ```
 
 ## ScreenShot
-![RED EAGLE]([https://s6.uupload.ir/files/red.eagle_tarw.png](https://s8.uupload.ir/files/screenshot_2024-11-28_115901_ojjo.png))
+![RED EAGLE]([https://s6.uupload.ir/files/red.eagle_tarw.png](https://s8.uupload.ir/files/screenshot_2024-11-28_115901_ojjo.png])
 
 ## Video Tutorial
 Youtube : https://www.youtube.com/channel/UCHcTtp9YxPukRMXebfDdtXA
