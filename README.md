@@ -20,8 +20,6 @@ $- pip3 install -r requirements.txt
 $- python3 red eagle.py 
 ```
 
-## ScreenShot
-![RED EAGLE](<a href="https://uupload.ir/" target="_blank"><img src="https://s8.uupload.ir/files/screenshot_2024-11-28_115901_ojjo.png" border="0" alt="آپلود عکس" /></a>)
 
 ## Video Tutorial
 Youtube : https://www.youtube.com/channel/UCHcTtp9YxPukRMXebfDdtXA
